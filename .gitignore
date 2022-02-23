@@ -7,7 +7,7 @@ qtcreator/
 /.vscode
 
 # temporary and backup files
-tag
+tags
 *~
 *#
 *.swp
